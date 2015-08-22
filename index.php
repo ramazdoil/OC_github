@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-          <p>ce bouton permet de réaliser un non-appel ajax à l'horloge parlante : <button id="btn"></button></p>
+          <p>ce bouton permet de réaliser un non-appel ajax à l'horloge parlante : <button id="btn">Au troisième top...</button></p>
         <div id="heure"><p>nous sommes le <?=date("d/m/Y")?> au moment du chargement de la page il était <?=date("h\hi")?></p></div>
     </div>
 </body>
